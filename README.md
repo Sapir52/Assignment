@@ -1,4 +1,4 @@
-# assignment
+# Assignment
 
 EXIF is a format for adding metadata  to jpeg files.
 
